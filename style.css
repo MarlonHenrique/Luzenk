@@ -1,0 +1,113 @@
+/*começo index */
+body{
+  background-image: url(img/fundo-home.jpg);
+  width: 100%;
+  height: auto;
+  padding-bottom: 70px;
+}
+
+
+
+/*Fim index*/
+
+/*Inicio footer*/
+#rodape {
+	padding: 46px 0 0 0;
+	background-color: #B0C4DE;
+	border-top: solid 1px #234c99;
+	position: absolute;
+	bottom: 3px;
+	width: 100%;
+}
+#rodape hr {
+	border-color: #696969;
+}
+#rodape .title-ft {
+	text-transform: uppercase;
+	color: #696969;
+	margin: 0;
+	line-height: 12px;
+	padding: 0 0 0 20px;
+}
+#rodape .menu-ft ul {
+	list-style: none;
+	padding: 0 0 0 20px;
+}
+#rodape .menu-ft li > a {
+	color: #696969;
+	line-height: 40px;
+	margin: 0;
+	transition: 0.2s;
+	text-decoration: none;
+}
+#rodape .menu-ft li > a:hover {
+	color: #234c99;
+}
+#rodape .social-menu ul {
+	list-style: none;
+	padding: 0 0 0 20px;
+}
+#rodape .social-menu ul > li {
+	float: left;
+}
+#rodape .social-menu ul > li > a {
+	display: block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+	font-size: 20px;
+	background-color: #fff;
+	color: #696969;
+	margin-right: 5px;
+	-webkit-transition: 0.2s;
+	-moz-transition: 0.2s;
+	-ms-transition: 0.2s;
+	-o-transition: 0.2s;
+	transition: 0.2s;
+}
+#rodape .social-menu ul > li > a:hover,
+#rodape .social-menu ul > li > a:focus {
+	border-radius: 35px;
+	color: #234c99;
+}
+#rodape .copyright {}
+#rodape .copyright p {
+	padding: 0 0 0 20px;
+	color: #696969;
+	line-height: 20px;
+	margin: 28px 0;
+}
+
+/*fim footer*/
+
+/*Perfil*/ 
+ 
+#perfil {
+	height: 200px;
+	border:1px solid ;
+	width: 100%;
+}
+
+/*Fim Perfil*/
+
+/* Sobre mim*/
+
+#sobre-mim {
+	background: #abf6f1;
+	height: 200px;
+	border:1px solid ;
+	width: 100%;
+}
+
+/*Fim sobre mim*/
+
+/*Portifolio*/
+
+#portifolio {
+	height: 200px;
+	border:1px solid ;
+	width: 100%;
+}
+
+/*Fim portifolio*/ 
