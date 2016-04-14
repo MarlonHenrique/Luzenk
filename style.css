@@ -15,9 +15,9 @@ body{
 	padding: 46px 0 0 0;
 	background-color: #B0C4DE;
 	border-top: solid 1px #234c99;
-	position: absolute;
-	bottom: 3px;
 	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 0px;
 }
 #rodape hr {
 	border-color: #696969;
@@ -84,8 +84,8 @@ body{
 /*Perfil*/ 
  
 #perfil {
-	height: 200px;
-	border:1px solid ;
+	height: 500px;
+	border:1px solid black;
 	width: 100%;
 }
 
@@ -95,8 +95,8 @@ body{
 
 #sobre-mim {
 	background: #abf6f1;
-	height: 200px;
-	border:1px solid ;
+	height: 500px;
+	border:1px solid black ;
 	width: 100%;
 }
 
@@ -105,9 +105,20 @@ body{
 /*Portifolio*/
 
 #portifolio {
-	height: 200px;
-	border:1px solid ;
+	height: 500px;
+	border:1px solid black;
 	width: 100%;
 }
 
 /*Fim portifolio*/ 
+
+/*Header*/
+#nav-header {
+	position: fixed;
+	width: 100%;
+	height: auto;
+	background-color: #B0C4DE;
+	border:1px solid black;
+}
+
+/*Fim-Header*/
