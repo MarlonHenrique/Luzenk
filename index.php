@@ -2,7 +2,9 @@
  <!--Perfil--> 
  <section id="perfil">
  	<div class="perfil-home">
- 		
+ 		<div class="foto-perfil">
+ 			<a href="#"><img src="img/content/foto-perfil.jpg" alt="Footo-perfil"></a>
+ 		</div>
  	</div>
  </section>
 <!--Fim Perfil-->
