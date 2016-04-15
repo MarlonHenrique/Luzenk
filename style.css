@@ -85,7 +85,7 @@ body{
 /*Perfil*/ 
  
 #perfil {
-	height: 500px;
+	height: auto;
 	width: 100%;
 }
 
@@ -95,7 +95,7 @@ body{
 	border:solid 2px #696969;
 	border-radius: 50%;
 	position: absolute;
-	left: 35%;
+	left: 38%;
 	top: 80px;
 	box-shadow: 6px 6px 10px #696969;
 	transition:0.5s;
@@ -110,18 +110,52 @@ body{
 	width: 100%;
 	height: 100%;
 	border-radius: 50%;
-	box-shadow: 
 }
 
+#perfil .info-perfil-home {
+	text-align: center;
+	margin-top: 370px;
+	padding-bottom: 20px;
+	color:#696969;
+}
+
+#perfil .info-perfil-home .info-perfil {
+	margin-top: 50px;
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+
+#perfil .info-perfil-home .icone-perfil {
+	margin-top: 50px;
+	font-size: 30px;
+}
+
+#perfil .info-perfil-home #titulo-perfil {
+	font-size: 50px;
+}
 /*Fim Perfil*/
 
 /* Sobre mim*/
 
 #sobre-mim {
-	background: #abf6f1;
-	height: 500px;
+	background: #18bc9c;
 	border-top: solid 1px #696969;
 	width: 100%;
+}
+
+#sobre-mim .sobre-mim-home {
+	text-align: center;
+	color: white;
+	padding-bottom: 20px;
+}
+
+#sobre-mim .title-sobre-home {
+	margin-bottom: 20px;
+	font-size: 50px;
+}
+
+#sobre-mim .sobre-home {
+	font-size: 30px;
 }
 
 /*Fim sobre mim*/
