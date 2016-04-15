@@ -28,6 +28,7 @@
  		</h1>
  		<p class="sobre-home">
  			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore magni dolor consequuntur odit, minima nam optio autem reiciendis? Corporis quam error perferendis, repudiandae nemo dolor qui nostrum non delectus maiores.
+ 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, dignissimos, sit earum id asperiores ex harum. Eveniet aliquid in aperiam assumenda odio quod, eum, laboriosam alias veniam enim dolorum! Esse.
  		</p>
  	</div>
  </section>
