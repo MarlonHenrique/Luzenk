@@ -164,9 +164,19 @@ body{
 /*Portifolio*/
 
 #portifolio {
-	height: 500px;
 	border-top: solid 1px #FF4500;
 	width: 100%;
+}
+
+#portifolio #caixas-portifolio {
+	padding: 20px;
+	margin: 20px 20px 20px 20px;
+	border: 1px solid #696969;
+}
+
+#portifolio #foto-portifolio {
+	max-width: 100%;
+	height: auto;
 }
 
 /*Fim portifolio*/ 
