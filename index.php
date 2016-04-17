@@ -39,10 +39,11 @@
 <section id="portifolio">
  	<div class="portifolio-home">
  		<div class="container">
+ 			<h1 id="titulo-portifolio">Portifolio</h1>
  			<?php $cont = 0; while ($cont <= 5): ?>
  				<div class="col-md-3" id="caixas-portifolio">
- 					<a href="#" id="port-home"><img src="img/content/foto-perfil.jpg" alt="foto portifolio" id="foto-portifolio"></a>
- 					<h3 id="nome-projeto-portifolio">Nome do projeto!</h3>
+ 					<a href="#" id="port-home"><img src="img/content/foto-perfil.jpg" alt="foto portifolio" id="foto-portifolio">
+ 					<h3 id="nome-projeto-portifolio">Nome do projeto!</h3></a>
  				</div>
  			<?php $cont++; endwhile; ?>	
  		</div>
